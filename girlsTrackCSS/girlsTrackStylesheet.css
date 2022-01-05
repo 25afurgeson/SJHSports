@@ -1,0 +1,49 @@
+h1 {
+  font-family: fantasy;
+  color: #B5592A;
+  text-align: center;
+}
+
+h2{
+  font-family: Arial Narrow, sans-serif;
+  color: #B5592A;
+}
+table, th, td {
+  border: 2px solid #8CBEAA;
+  font-family: Arial Narrow, sans-serif;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+p{
+  font-family: Arial Narrow, sans-serif;
+}
+
+h6{
+  font-family: Arial Narrow, sans-serif;
+  color: #F09027;
+}
+
+a{
+  font-family: Arial Narrow, sans-serif;
+  color: #B5592A;
+}
+
+hr{
+  border-style: none;
+  border-top-style: solid;
+  border-width: 3px;
+  width: 100%;
+  border-top-color: #F09027;
+}
+
+body{
+  background-color: #F0F2EB;
+}
+
+img{
+  height: 200px;
+  width: auto;
+}
+
+/*By: Emma Hatsis
